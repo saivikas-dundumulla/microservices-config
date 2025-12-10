@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to DemoBank accounts related Prod APIs"
   contactDetails:
     name: "Reine - Produce Owner"
-    email: "reine.mathew@gmail.com"
+    email: "{cipher}5ee102c821954e69667a7219406e39283487517b62c647d97897d117c2c6539a844cb26bf72592f0518b44c8951e1176"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
